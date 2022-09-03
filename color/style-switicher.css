@@ -8,6 +8,7 @@
     background: var(--bg-black-100);
     z-index: 101;
     border-radius: 5px;
+    overflow-x:hidden;
     transition: all 0.3s ease;
     transform: translateX(100% );
 }
